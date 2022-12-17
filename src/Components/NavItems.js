@@ -22,7 +22,7 @@ function NavItems({navSize , title , icon, icon1} ) {
             _hover={{textDecoration:"none", background:'yellow.600'}}
             p={3}
             w={navSize === "large" && "100%"}
-            href="https://www.youtube.com/watch?v=U121KdsZ8QE&t=1s&ab_channel=BenjaminCarlson"
+            href=""
             >
             <MenuButton w="100%">
                 <Flex>
